@@ -41,6 +41,7 @@ p{
 .col-2{
     flex-basis: 50%;
     min-width: 300px;
+    margin-left: auto;
 }
 .col-2 img{
     max-width: 100%;
